@@ -6,7 +6,7 @@ package com.mycompany.nuevafuncionalidad;
 
 /**
  *
- * @author Alumno
+ * @author Jose andres
  */
 public class NUEVAFUNCIONALIDAD {
 
